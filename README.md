@@ -29,22 +29,10 @@
 
 ---
 
-### 📈 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=KhushSonani&show_icons=true&theme=tokyonight" />
-</p>
 
----
-
-### 🔥 Streak Stats
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=KhushSonani&theme=tokyonight" />
-</p>
-
----
 
 ### 📫 Connect With Me
-- 💼 LinkedIn: *(add link)*
-- 🌐 Portfolio: *(add link)*
+- 💼 LinkedIn: *(https://www.linkedin.com/in/khush-sonani-435a19289/)*
+- 🌐 Portfolio: *(https://portfolio-website-rho-blond-53.vercel.app/)*
 
 ⭐ **If you like my work, consider starring my repositories!**
