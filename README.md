@@ -89,7 +89,7 @@
 ---
 
 ## 🏆 Achievements (Optional but Powerful)
-- 🧩 Solved **XXX+ DSA problems**
+- 🧩 Solved **2100+ DSA problems**
 - ⚔️ Active on **LeetCode & Codeforces**
 - 🔥 Maintained **daily coding streak**
 - 🏁 Participated in **coding contests & hackathons**
