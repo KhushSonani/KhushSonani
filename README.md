@@ -88,14 +88,6 @@
 
 ---
 
-## 🏆 Achievements (Optional but Powerful)
-- 🧩 Solved **2100+ DSA problems**
-- ⚔️ Active on **LeetCode & Codeforces**
-- 🔥 Maintained **daily coding streak**
-- 🏁 Participated in **coding contests & hackathons**
-
----
-
 ## 📫 Connect With Me
 <p align="center">
   <a href="https://www.linkedin.com/in/khush-sonani-435a19289/">
