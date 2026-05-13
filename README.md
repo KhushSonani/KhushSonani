@@ -70,9 +70,9 @@
 
 <div align="center">
 
-<img width="420" src="https://github-readme-stats.vercel.app/api?username=KhushSonani&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github"/>
+<img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api?username=KhushSonani&show_icons=true&theme=tokyonight" />
 
-<img width="420" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KhushSonani&layout=compact&theme=github_dark&hide_border=true"/>
+<img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=KhushSonani&layout=compact&theme=tokyonight" />
 
 <br><br>
 
