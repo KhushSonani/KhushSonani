@@ -1,105 +1,109 @@
-<h1 align="center">Hi 👋, I'm Khush Sonani</h1>
-<h3 align="center">Computer Science Student | DSA & CP | Full Stack | AI Explorer</h3>
+<div align="center">
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=3000&color=36BCF7&center=true&vCenter=true&width=600&lines=DSA+%7C+Competitive+Programming;Full+Stack+Web+Developer;AI+%26+Data+Science+Enthusiast;Consistency+%3E+Motivation" />
-</p>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=210&color=0:0F2027,50:203A43,100:2C5364&text=Khush%20Sonani&fontSize=42&fontColor=ffffff&fontAlignY=38"/>
 
----
+# Hey 👋 I'm Khush Sonani
 
-## 👨‍💻 About Me
-- 🎓 Computer Science student passionate about **problem solving & optimization**
-- 💻 Strong grip on **C++ | DSA | CP | OOP**
-- ⚔️ Active in **Competitive Programming**
-- 🌐 Building **scalable full-stack applications**
-- 🤖 Exploring **AI, ML & Data Science**
-- 🚀 Goal: **Crack top tech roles & build impactful products**
+### 💻 Computer Science Student • Competitive Programmer • Full Stack Developer
 
----
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00C2FF&center=true&vCenter=true&width=700&lines=DSA+%26+Competitive+Programming;Full+Stack+Developer;Building+Projects+and+Improving+Daily;Consistency+%3E+Motivation" />
 
-## 🧠 DSA & Competitive Programming
+<br>
 
-### 📊 Problem Solving Stats
-<p align="center">
-  <img src="https://leetcard.jacoblin.cool/KD39?theme=dark&font=Baloo&ext=heatmap"/>
-</p>
+![](https://komarev.com/ghpvc/?username=KhushSonani&style=for-the-badge&color=blue)
 
-<p align="center">
-  <img src="https://codeforces-readme-stats.vercel.app/api/card?username=K-D-2005&theme=dark"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KhushSonani&layout=compact&theme=tokyonight"/>
-</p>
+</div>
 
 ---
 
-## 🔥 Consistency & Activity
+## 🚀 About Me
 
-### 📅 GitHub Contribution Heatmap
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=KhushSonani&theme=react-dark"/>
-</p>
+- 🎓 Computer Science student passionate about problem solving
+- ⚔️ Active in Competitive Programming with a strong interest in DSA 
+- 🌐 Building modern full stack applications with clean UI and scalable backend architecture
+- 🚀 Focused on improving development and problem-solving skills consistently
+- 🌱 Exploring scalable backend systems and clean UI development 
 
-### ⚡ Streak Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=KhushSonani&show_icons=true&theme=tokyonight&hide_border=true" />
-</p>
+---
 
+## 🌐 Connect With Me
+
+<div align="center">
+
+<a href="https://www.linkedin.com/in/khush-sonani-435a19289/" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://portfolio-website-rho-blond-53.vercel.app/" target="_blank">
+  <img src="https://img.shields.io/badge/Portfolio-111111?style=for-the-badge&logo=vercel&logoColor=white"/>
+</a>
+
+<a href="https://www.instagram.com/__kd_sonani0539?igsh=eTFndXo5bXhqdmIy" target="_blank">
+  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+</a>
+
+<a href="https://leetcode.com/KD39/" target="_blank">
+  <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
+</a>
+
+<a href="https://codeforces.com/profile/K-D-2005" target="_blank">
+  <img src="https://img.shields.io/badge/Codeforces-445f9d?style=for-the-badge&logo=codeforces&logoColor=white"/>
+</a>
+
+</div>
+
+---
+
+## 💻 Coding Profiles
+
+<div align="center">
+
+<img width="420" src="https://leetcard.jacoblin.cool/KD39?theme=dark&font=Nunito&ext=contest"/>
+
+<img width="420" src="https://codeforces-readme-stats.vercel.app/api/card?username=K-D-2005&theme=github_dark"/>
+
+</div>
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img width="420" src="https://github-readme-stats.vercel.app/api?username=KhushSonani&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github"/>
+
+<img width="420" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KhushSonani&layout=compact&theme=github_dark&hide_border=true"/>
+
+<br><br>
+
+<img width="700" src="https://streak-stats.demolab.com?user=KhushSonani&theme=github-dark&hide_border=true"/>
+
+</div>
 
 ---
 
 ## 🛠️ Tech Stack
 
-### 💻 Languages
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=cpp,java,js" />
-</p>
-
-### 🌐 Frontend
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,react" />
-</p>
-
-### 🧩 Backend
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=nodejs,express" />
-</p>
-
-### 🗄️ Database
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=mongodb,mysql" />
-</p>
-
-### 🛠️ Tools
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode" />
-</p>
+<div align="center"><img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/><img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/><img src="https://img.shields.io/badge/Tailwind_CSS-0F172A?style=for-the-badge&logo=tailwind-css&logoColor=38BDF8"/><img src="https://img.shields.io/badge/Node.js-20232A?style=for-the-badge&logo=node.js&logoColor=6DA55F"/><img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"/><br><img src="https://img.shields.io/badge/MongoDB-022c22?style=for-the-badge&logo=mongodb&logoColor=4EA94B"/><img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/><img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/><img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/></div>
 
 ---
 
-## 📌 Featured Projects
-- 🎓 **Student Result Management System** – Java + MySQL  
-- 📊 **Performance Analysis & Prediction** – ML based  
-- 🌐 **Portfolio Website** – React + Tailwind  
-- 🧠 **SmartBite** – AI-based Smart Food Recommendation  
+## 📈 Contribution Graph
 
-👉 *More projects pinned below 👇*
+<div align="center">
 
----
+<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=KhushSonani&theme=github-compact&hide_border=true"/>
 
-## 📫 Connect With Me
-<p align="center">
-  <a href="https://www.linkedin.com/in/khush-sonani-435a19289/">
-    <img src="https://skillicons.dev/icons?i=linkedin" />
-  </a>
-  <a href="https://portfolio-website-rho-blond-53.vercel.app/">
-    <img src="https://skillicons.dev/icons?i=vercel" />
-  </a>
-</p>
+</div>
 
 ---
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:36BCF7,100:9B59B6&height=120&section=footer"/>
-</p>
+<div align="center">
+
+### ✨ Consistency beats motivation.
+
+</div>
+
+<br>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:0F2027,50:203A43,100:2C5364"/>
